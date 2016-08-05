@@ -1,0 +1,35 @@
+_repo: The-Captivi-and-the-Mostellaria_7282
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Riley, Henry T. (Henry Thomas)
+    alias: Riley, Henry Thomas
+    birthdate: 1816
+    deathdate: 1878
+    gutenberg_agent_id: '8085'
+    url: http://www.gutenberg.org/2009/agents/8085
+creator:
+  author:
+    agent_name: Plautus, Titus Maccius
+    alias: Plautus, Marcus Accius
+    birthdate: -254
+    deathdate: -184
+    gutenberg_agent_id: '2406'
+    url: http://www.gutenberg.org/2009/agents/2406
+    wikipedia: http://en.wikipedia.org/wiki/Plautus
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin drama (Comedy)'
+- !lcc 'PA'
+- !lcsh 'Plautus, Titus Maccius -- Translations into English'
+- GITenberg
+title: The Captivi and the Mostellaria
+url: http://www.gutenberg.org/ebooks/7282
